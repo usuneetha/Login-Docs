@@ -1,0 +1,16 @@
+1.Sharepoint online overview
+2.JSOM/CSOM rest API
+3.MS FLOWS
+4.React JS
+5.SPFX
+6.Power Shell
+7.Power Apps
+8.Sharepoint farms overview
+9.OOTB
+10.Azure Functions
+
+------
+11.c# & cloud
+
+-----
+Aptron - for powershell(---website---)
